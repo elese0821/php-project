@@ -1,6 +1,7 @@
 ## 뇌섹남녀 프로젝트
 - 뇌섹남녀는 문제적남자 프로그램에 나온여러가지 문제들을 풀어볼 수 있는 웹 사이트입니다.
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
+미리보기(http://hoho.dothome.co.kr/project/php/home/main.php)
 
 ## 목차
 
