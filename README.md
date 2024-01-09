@@ -1,6 +1,8 @@
 # 뇌섹남녀 프로젝트 소개
 `뇌섹남녀`는 인기 TV 프로그램 '문제적 남자'에서 영감을 받아 만든 퀴즈 사이트입니다. 사용자들은 다양한 카테고리의 퀴즈를 풀면서 자신의 지식을 시험해볼 수 있습니다. 이 사이트는 PHP를 기반으로 구축되었으며, 로그인 시스템, 커뮤니티 게시판, 퀴즈 풀이 기능 등을 포함하고 있습니다.
 
+(바로가기)[http://hoho.dothome.co.kr/project/php/home/main.php]
+
 ## 기술 스택
 - Front-end: HTML, CSS, JavaScript
 - Back-end: PHP
